@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "John Doe", "age": 25,"salary": 500, "pob": "New York" },
+    { "id": 2, "name": "Jane Smith", "age": 30, "salary": 500, "pob": "London" },
+    { "id": 3, "name": "Ali Khan", "age": 22, "salary": 500, "pob": "Dubai" },
+    { "id": 4, "name": "Sara Lee", "age": 28, "salary": 500, "pob": "Toronto" },
+    { "id": 5, "name": "Michael Brown", "age": 35, "salary": 500, "pob": "Sydney" },
+    { "id": 6, "name": "Emily White", "age": 27, "salary": 500, "pob": "Berlin" },
+    { "id": 7, "name": "David Kim", "age": 24, "salary": 500, "pob": "Seoul" },
+    { "id": 8, "name": "Chris Evans", "age": 33, "salary": 500, "pob": "Boston" },
+    { "id": 9, "name": "Laura Adams", "age": 29, "salary": 500, "pob": "Madrid" },
+    { "id": 10, "name": "Rachel Green", "age": 26, "salary": 500, "pob": "Paris" }
+  ]
+  
